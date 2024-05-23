@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mvc--bilet-5.props" />
+</Project>

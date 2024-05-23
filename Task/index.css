@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: auto;
+}
+.top{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.text{
+    width: 60%;
+    height: 100%;
+        margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text h1{
+    font-size: 20px;
+    color: white;
+}
+ul{
+    width: 40%;
+    list-style: none;
+    display: flex;
+    justify-content: end;
+}
+ul li{
+    margin: 10px;
+    font-size: 16px;
+    color: white;
+}
+.name{
+    width: 60%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.left{
+    width: 50%;
+    height: 100%;
+    /* background-color: red; */
+}
+.left img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 80%;
+    height: 50%;
+}
+.main h1{
+    font-size: 40px;
+    color: black;
+    margin: 20px 0;
+}
+.main p{
+    font-size: 16px;
+    line-height: 25px;
+}
+.main button{
+    width: 22%;
+    height: 35px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 10px;
+    background-color: #0D6EFD;
+    color: white;
+}
+.call{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.place{
+    width: 60%;
+    height: 100px;
+    background-color: #6C757D;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+.place p{
+    color: white;
+    text-align: center;
+}
+
+.card{
+    width: 100%;
+    height: 350px;
+}
+.cards{
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item{
+    width: 30%;
+    height:250px;
+    border: 1px solid gray;
+}
+.tops{
+    margin: 20px;
+    height: 150px;
+}
+.tops h1{
+    font-size: 32px;
+    margin: 10px 0 ;
+}
+.tops p{
+    font-size: 16px;
+    line-height: 25px;
+}
+.down{
+    border-top: 1px solid gray;
+}
+.down button{
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0D6EFD;
+    color: white;
+    width: 25%;
+    height: 35px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.footer p{
+    color: white;
+    font-size: 16px;
+}

@@ -1,0 +1,8 @@
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.csproj.AssemblyReference.cache
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.AssemblyInfoInputs.cache
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.AssemblyInfo.cs
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.RazorAssemblyInfo.cache
+C:\Users\ca.r215.11\Desktop\Mvc-5-bilet\Mvc-5-bilet\obj\Debug\net6.0\Mvc-5-bilet.RazorAssemblyInfo.cs
